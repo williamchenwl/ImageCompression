@@ -1,0 +1,1 @@
+epoch: 8, bpp : 0.1449,  psnr : 24.6468 ssim : 0.8711epoch: 47, bpp : 0.1577,  psnr : 25.9407 ssim : 0.9007
